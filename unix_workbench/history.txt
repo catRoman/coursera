@@ -1,0 +1,1000 @@
+  613  java Exercise7_28
+  614  javac Exercise7_28.java
+  615  java Exercise7_28
+  616  javac Exercise7_28.java
+  617  java Exercise7_28
+  618  javac Exercise7_28.java
+  619  java Exercise7_28
+  620  javac Exercise7_28.java
+  621  java Exercise7_28
+  622  git pull origin master
+  623  ls
+  624  cd ..
+  625  ls
+  626  cd projects
+  627  ls
+  628  code weightedClass.java
+  629  javac weightedClass.java
+  630  java weightedClass
+  631  javac weightedClass.java
+  632  java weightedClass
+  633  javac weightedClass.java
+  634  java weightedClass
+  635  javac weightedClass.java
+  636  java weightedClass
+  637  javac weightedClass.java
+  638  java weightedClass
+  639  javac weightedClass.java
+  640  java weightedClass
+  641  javac weightedClass.java
+  642  java weightedClass
+  643  javac weightedClass.java
+  644  java weightedClass
+  645  javac weightedClass.java
+  646  java weightedClass
+  647  javac weightedClass.java
+  648  java weightedClass
+  649  javac weightedClass.java
+  650  java weightedClass
+  651  javac weightedClass.java
+  652  java weightedClass
+  653  javac weightedClass.java
+  654  java weightedClass
+  655  javac weightedClass.java
+  656  java weightedClass
+  657  javac weightedClass.java
+  658  java weightedClass
+  659  javac weightedClass.java
+  660  java weightedClass
+  661  javac weightedClass.java
+  662  java weightedClass
+  663  javac weightedClass.java
+  664  java weightedClass
+  665  javac weightedClass.java
+  666  java weightedClass
+  667  javac weightedClass.java
+  668  java weightedClass
+  669  javac weightedClass.java
+  670  java weightedClass
+  671  javac weightedClass.java
+  672  java weightedClass
+  673  javac weightedClass.java
+  674  java weightedClass
+  675  javac weightedClass.java
+  676  java weightedClass
+  677  javac weightedClass.java
+  678  java weightedClass
+  679  javac weightedClass.java
+  680  java weightedClass
+  681  javac weightedClass.java
+  682  java weightedClass
+  683  javac weightedClass.java
+  684  java weightedClass
+  685  javac weightedClass.java
+  686  java weightedClass
+  687  javac weightedClass.java
+  688  java weightedClass
+  689  javac weightedClass.java
+  690  java weightedClass
+  691  git add --all
+  692  git commit -m"desktop"
+  693  git puch origin master
+  694  git push origin master
+  695  git ststaus
+  696  git status
+  697  cd lang
+  698  cd chp7
+  699  javac Exercise7_21.java
+  700  java Exercise7_21
+  701  javac Exercise7_21.java
+  702  java Exercise7_21
+  703  javac Exercise7_21.java
+  704  java Exercise7_21
+  705  javac Exercise7_21.java
+  706  java Exercise7_21
+  707  javac Exercise7_21.java
+  708  cd lang
+  709  cd chp9
+  710  javac Exercise9_6.java StopWatch.java
+  711  java Exercise9_6
+  712  javac Exercise9_6.java StopWatch.java
+  713  java Exercise9_6
+  714  javac Exercise9_6.java StopWatch.java
+  715  java Exercise9_6
+  716  javac Exercise9_6.java StopWatch.java
+  717  java Exercise9_6
+  718  javac Exercise9_6.java StopWatch.java
+  719  java Exercise9_6
+  720  javac Exercise9_6.java StopWatch.java
+  721  java Exercise9_6
+  722  javac Exercise9_6.java StopWatch.java
+  723  java Exercise9_6
+  724  javac Exercise9_6.java StopWatch.java
+  725  java Exercise9_6
+  726  code Exercise9_7.java Account.java
+  727  code StopWatch
+  728  code StopWatch.java
+  729  javac Exercise9_7.java Account.java
+  730  java Exercise9_7
+  731  javac Exercise9_7.java Account.java
+  732  java Exercise9_7
+  733  javac Exercise9_7.java Account.java
+  734  java Exercise9_7
+  735  javac Exercise9_7.java Account.java
+  736  java Exercise9_7
+  737  javac Exercise9_7.java Account.java
+  738  java Exercise9_7
+  739  code Exercise9_8.java Fan.java
+  740  code Account.java
+  741  javac Exercise9_8.java Fan.java
+  742  java Exercise9_8
+  743  javac Exercise9_8.java Fan.java
+  744  java Exercise9_8
+  745  javac Exercise9_8.java Fan.java
+  746  java Exercise9_8
+  747  cd java
+  748  cd Documents/
+  749  cd java
+  750  ls
+  751  git add --all
+  752  git status
+  753  git commit -m"desktop"
+  754  git push origin master
+  755  cd lang
+  756  cd chp9
+  757  code Exercise9_9.java RegularPolygon.java
+  758  code Account.java
+  759  javac Exercise9_9.java RegularPolygon.java
+  760  java Exercise9_9
+  761  javac Exercise9_9.java RegularPolygon.java
+  762  java Exercise9_9
+  763  javac Exercise9_9.java RegularPolygon.java
+  764  java Exercise9_9
+  765  javac Exercise9_9.java RegularPolygon.java
+  766  java Exercise9_9
+  767  code Exercise9_10.java QuadraticEquation.java
+  768  javac Exercise9_10.java QuadraticEquation.java
+  769  java Exercise9_10
+  770  javac Exercise9_10.java QuadraticEquation.java
+  771  java Exercise9_10
+  772  javac Exercise9_10.java QuadraticEquation.java
+  773  1 2 3
+  774  javac Exercise9_10.java QuadraticEquation.java
+  775  java Exercise9_10
+  776  code Exercise9_11.java LinearEquation.java
+  777  javac Exercise9_11.java LinearEquation.java
+  778  java Exercise9_11
+  779  javac Exercise9_11.java LinearEquation.java
+  780  java Exercise9_11
+  781  javac Exercise9_11.java LinearEquation.java
+  782  java Exercise9_11
+  783  code Exercise9_12.java
+  784  javac Exercise9_12.java
+  785  java Exercise9_12
+  786  javac Exercise9_12.java
+  787  java Exercise9_12
+  788  javac Exercise9_12.java
+  789  java Exercise9_12
+  790  javac Exercise9_12.java
+  791  java Exercise9_12
+  792  javac Exercise9_12.java
+  793  java Exercise9_12
+  794  javac Exercise9_12.java
+  795  java Exercise9_12
+  796  javac Exercise9_12.java
+  797  java Exercise9_12
+  798  javac Exercise9_12.java
+  799  java Exercise9_12
+  800  javac Exercise9_12.java
+  801  java Exercise9_12
+  802  javac Exercise9_12.java
+  803  java Exercise9_12
+  804  javac Exercise9_12.java
+  805  java Exercise9_12
+  806  javac Exercise9_12.java
+  807  java Exercise9_12
+  808  javac Exercise9_12.java
+  809  java Exercise9_12
+  810  javac Exercise9_12.java
+  811  java Exercise9_12
+  812  javac Exercise9_12.java
+  813  java Exercise9_12
+  814  javac Exercise9_12.java
+  815  java Exercise9_12
+  816  javac Exercise9_12.java
+  817  java Exercise9_12
+  818  cd lang
+  819  cd chp9
+  820  code Location.java Exercise9_13.java
+  821  javac Location.java Exercise9_13.java
+  822  code Location.java Exercise9_13.java
+  823  cd ..
+  824  ls
+  825  cd comp132
+  826  ls
+  827  code Test.java
+  828  javac Text.java
+  829  javac Test.java
+  830  java Test
+  831  ls
+  832  cd comp132
+  833  ls
+  834  code Lab6.java
+  835  code Lab5.java
+  836  code test.java
+  837  javac Lab6.java Test.java
+  838  java Test
+  839  javac Lab6.java Test.java
+  840  java Test
+  841  code Test.java
+  842  javac Lab6.java Test.java
+  843  cd comp132
+  844  javac Test.java Lab6.java
+  845  java Test
+  846  javac Test.java Lab6.java
+  847  java Test
+  848  javac Test.java Lab6.java
+  849  java Lab6
+  850  System.out.print("Check for availability: ");
+  851  javac Test.java Lab6.java
+  852  java Lab6
+  853  javac Test.java Lab6.java
+  854  java Lab6
+  855  javac Test.java Lab6.java
+  856  java Lab6
+  857  javac Test.java Lab6.java
+  858  java Lab6
+  859  javac Test.java Lab6.java
+  860  java Lab6
+  861  javac Test.java Lab6.java
+  862  java Lab6
+  863  javac Test.java Lab6.java
+  864  java Lab6
+  865  javac Test.java Lab6.java
+  866  java Lab6
+  867  javac Test.java Lab6.java
+  868  java Lab6
+  869  javac Test.java Lab6.java
+  870  java Lab6
+  871  javac Test.java Lab6.java
+  872  java Lab6
+  873  javac Test.java Lab6.java
+  874  java Lab6
+  875  javac Test.java Lab6.java
+  876  java Lab6
+  877  javac Test.java Lab6.java
+  878  java Lab6
+  879  javac Test.java Lab6.java
+  880  java Lab6
+  881  javac Test.java Lab6.java
+  882  java Lab6
+  883  javac Test.java Lab6.java
+  884  java Lab6
+  885  javac Test.java Lab6.java
+  886  java Lab6
+  887  javac Test.java Lab6.java
+  888  java Lab6
+  889  javac Test.java Lab6.java
+  890  javac Lab6.java
+  891  java Lab6
+  892  javac Lab6.java
+  893  java Lab6
+  894  javac Lab6.java
+  895  java Lab6
+  896  java Lab5
+  897  javac Lab6.java
+  898  java Lab6
+  899  javac Lab6.java
+  900  java Lab6
+  901  javac Lab6.java
+  902  java Lab6
+  903  javac Lab6.java
+  904  java Lab6
+  905  javac Lab6.java
+  906  java Lab6
+  907  javac Lab6.java
+  908  java Lab6
+  909  javac Lab6.java
+  910  java Lab6
+  911  javac Lab6.java
+  912  java Lab6
+  913  javac Lab6.java
+  914  java Lab 6
+  915  java Lab6
+  916  java Lab 6
+  917  javac Lab6.java
+  918  java Lab6
+  919  javac Lab6.java
+  920  java Lab6
+  921  javac Lab6.java
+  922  java Lab6
+  923  javac Lab6.java
+  924  java Lab6
+  925  javac Lab6.java
+  926  java Lab6
+  927  git add --all
+  928  git commit -m"desktop:
+  929  "
+  930  git push origin master
+  931  javac Lab6.java
+  932  git push origin master
+  933  java Lab6
+  934  ls
+  935  cd comp132
+  936  code Exam.java
+  937  javac Exam.java
+  938  java Exam
+  939  javac Exam.java
+  940  java Exam
+  941  javac Exam.java
+  942  java Exam
+  943  javac Exam.java
+  944  java Exam
+  945  javac Exam.java
+  946  java Exam
+  947  javac Exam.java
+  948  java Exam
+  949  javac Exam.java
+  950  java Exam
+  951  javac Exam.java
+  952  git add --all
+  953  git status
+  954  git commit-m"desktop"
+  955  git commit -m"desktop"
+  956  git push origin master
+  957  git add --all
+  958  git status
+  959  git commit - m"desktop"
+  960  git commit -m"desktop"
+  961  git push orign mastr
+  962  git push origin master
+  963  ls
+  964  cd lang
+  965  ls
+  966  cd chp12
+  967  ls
+  968  javac Exercise12_2.java
+  969  Exercise12_2
+  970  java Exercise12_2
+  971  Exercise12_2
+  972  javac Exercise12_2.java
+  973  java Exercise12_2
+  974  javac Exercise12_2.java
+  975  java Exercise12_2
+  976  javac Exercise12_2.java
+  977  java Exercise12_2
+  978  javac Exercise12_2.java
+  979  java Exercise12_2
+  980  javac Exercise12_2.java
+  981  git add --all
+  982  git status
+  983  git commit-m"desktop"
+  984  git commit -m"desktop"
+  985  git push origin master
+  986  git pull origin master
+  987  ls
+  988  cd ..
+  989  cd chp11
+  990  ls
+  991  code Triangle.java
+  992  cp Triangle.java ~/Documents/java/lang/chp12/Triangle.java
+  993  cd ..
+  994  cd chp12
+  995  ls
+  996  code Triangle.java
+  997  code IllegalTriangleException.java
+  998  code Exercise12_5.java
+  999  cd ..
+ 1000  cd chp11
+ 1001  ls
+ 1002  cp GeometricObject.java ~/Documents/java/lang/chp12/GeometricObject.java
+ 1003  cd ..
+ 1004  cd chp12
+ 1005  ls
+ 1006  code GeometricObject.java
+ 1007  javac GeometricObject.java Triangle.java Exercise12_5.java
+ 1008  java Exercise12_5.java
+ 1009  java Exercise12_5
+ 1010  java Exercise12_5.java
+ 1011  javac GeometricObject.java Triangle.java Exercise12_5.java
+ 1012  java Exercise12_5.java
+ 1013  java Exercise12_5
+ 1014  javac GeometricObject.java Triangle.java Exercise12_5.java
+ 1015  java Exercise12_5
+ 1016  javac IllegalTriangleException.java
+ 1017  javac Triangle.java
+ 1018  javac Exercise12_5.java
+ 1019  java Exercise12_5
+ 1020  javac Exercise12_5.java
+ 1021  java Exercise12_5
+ 1022  javac Triangle.java
+ 1023  java Exercise12_5
+ 1024  javac Exercise12_5
+ 1025  javac Exercise12_5.java
+ 1026  javac IllegaleTriangleException.java
+ 1027  javac IllegalTriangleException.java
+ 1028  java Exercise12_5
+ 1029  javac IllegalTriangleException.java
+ 1030  java Exercise12_5
+ 1031  javac Exercise12_5.java
+ 1032  java Exercise12_5
+ 1033  javac Exercise12_5.java
+ 1034  java Exercise12_5
+ 1035  javac IllegalTriangleException.java
+ 1036  java Exercise12_5
+ 1037  javac Triangle.java
+ 1038  java Exercise12_5
+ 1039  javac Exercise12_5.java
+ 1040  java Exercise12_5
+ 1041  javac Exercise12_5.java
+ 1042  java Exercise12_5
+ 1043  javac Exercise12_5.java
+ 1044  java Exercise12_5
+ 1045  javac Exercise12_5.java
+ 1046  java Exercise12_5
+ 1047  javac Exercise12_5.java
+ 1048  java Exercise12_5
+ 1049  javac Exercise12_5.java
+ 1050  java Exercise12_5
+ 1051  javac Exercise12_5.java
+ 1052  java Exercise12_5
+ 1053  javac Exercise12_5.java
+ 1054  java Exercise12_5
+ 1055  javac Exercise12_5.java
+ 1056  java Exercise12_5
+ 1057  javac Exercise12_5.java
+ 1058  java Exercise12_5
+ 1059  code Exercise12_6.java
+ 1060  javac Exercise12_6.java
+ 1061  java Exercise12_6
+ 1062  javac Exercise12_6.java
+ 1063  java Exercise12_6
+ 1064  code Exercise12_7.java
+ 1065  code NullDenominatorException.java
+ 1066  javac NullDenominatorException.java
+ 1067  code HexFormatException.java
+ 1068  code NullDenominatorException.java
+ 1069  javac Exercise12_7.java
+ 1070  javac nullDenominatorException.java
+ 1071  javac NullDenominatorException.java
+ 1072  java Exercise12_7
+ 1073  javac Exercise12_7
+ 1074  javac Exercise12_7.java
+ 1075  javac Exercise12_7
+ 1076  java Exercise12_7
+ 1077  code HexFormatException.java
+ 1078  javacHexFormatException.java
+ 1079  javac HexFormatException.java
+ 1080  code Exercise12_8.java
+ 1081  code Exwercise12_6.java
+ 1082  code Exercise12_6.java
+ 1083  javac Exercise12_8.java
+ 1084  java Exercise12_8
+ 1085  javac HexFormatException.java
+ 1086  java Exercise12_8
+ 1087  javac HexFormatException.java
+ 1088  javac Exercise12_8.java
+ 1089  java Exercise12_8
+ 1090  java Exercise12_6
+ 1091  code Exercise12_9.java BinaryFormatException.java
+ 1092  javac BinaryformatException.java
+ 1093  javac BinaryFormatException.java
+ 1094  javac Exercise12_9.java
+ 1095  java Exercise12_9
+ 1096  javac Exercise12_9.java
+ 1097  java Exercise12_9
+ 1098  javac Exercise12_9.java
+ 1099  java Exercise12_9
+ 1100  javac Exercise12_9.java
+ 1101  java Exercise12_9
+ 1102  code Fraction.java code NullDenominatorException.java
+ 1103  javac Fraction.java
+ 1104  code Exercise12_10.java
+ 1105  javac Exercise12_10.java
+ 1106  java Exercise12_10
+ 1107  javac Fraction.java
+ 1108  java Exercise12_10
+ 1109  git add --all
+ 1110  git status
+ 1111  git commit -m"desktop"
+ 1112  git push origin master
+ 1113  ls
+ 1114  git pull origin master
+ 1115  code Exercise12_15.java
+ 1116  git pull origin master
+ 1117  ls
+ 1118  code Exercise12_17.java
+ 1119  java Exercise12_17
+ 1120  javac Exercise12_17
+ 1121  javac Exercise12_17.java
+ 1122  java Exercise12_17
+ 1123  javac Exercise12_17.java
+ 1124  java Exercise12_17
+ 1125  javac Exercise12_17.java
+ 1126  java Exercise12_17
+ 1127  javac Exercise12_17.java
+ 1128  java Exercise12_17
+ 1129  javac Exercise12_17.java
+ 1130  java Exercise12_17
+ 1131  javac Exercise12_17.java
+ 1132  java Exercise12_17
+ 1133  javac Exercise12_17.java
+ 1134  java Exercise12_17
+ 1135  javac Exercise12_17.java
+ 1136  java Exercise12_17
+ 1137  javac Exercise12_17.java
+ 1138  java Exercise12_17
+ 1139  javac Exercise12_17.java
+ 1140  java Exercise12_17
+ 1141  javac Exercise12_17.java
+ 1142  java Exercise12_17
+ 1143  javac Exercise12_17.java
+ 1144  java Exercise12_17
+ 1145  javac Exercise12_17.java
+ 1146  java Exercise12_17
+ 1147  javac Exercise12_17.java
+ 1148  java Exercise12_17
+ 1149  code Exercise12_18.java
+ 1150  mkdir test
+ 1151  cd test
+ 1152  code test12_1.java test12_2.java test12_3.java
+ 1153  mv test test12
+ 1154  cd..
+ 1155  cd ..
+ 1156  mv test test12
+ 1157  ls
+ 1158  javac Exercise12_18.java
+ 1159  javac Exercise12_18.java -Xlint
+ 1160  java Exercise12.18 test12
+ 1161  java Exercise12_18 test12
+ 1162  ls
+ 1163  java Exercise12_18 test12
+ 1164  javac Exercise12_18.java
+ 1165  java Exercise12_18 test12
+ 1166  ls
+ 1167  javac Exercise12_18.java
+ 1168  java Exercise12_18 test12
+ 1169  javac Exercise12_18.java
+ 1170  java Exercise12_18 test12
+ 1171  java Exercise12_18 Exercise12_15.java
+ 1172  ls
+ 1173  java Exercise12_18 test1.txt
+ 1174  code Exercise12_16.java
+ 1175  javac Exercise12_18.java
+ 1176  java Exercise12_18 test1.txt
+ 1177  java Exercise12_18 test12
+ 1178  java Exercise12_18 test1.txt
+ 1179  javac Exercise12_18.java
+ 1180  java Exercise12_18 test1.txt
+ 1181  java Exercise12_18 test12
+ 1182  javac Exercise12_18.java
+ 1183  java Exercise12_18 test12
+ 1184  javac Exercise12_18.java
+ 1185  java Exercise12_18 test12
+ 1186  cd test12
+ 1187  test.txt
+ 1188  code test.txt
+ 1189  cd ..
+ 1190  javac Exercise12_18.java
+ 1191  java Exercise12_18 test12
+ 1192  javac Exercise12_18.java
+ 1193  java Exercise12_18 test12
+ 1194  javac Exercise12_18.java
+ 1195  java Exercise12_18 test12
+ 1196  javac Exercise12_18.java
+ 1197  java Exercise12_18 test12
+ 1198  cd test12
+ 1199  ls
+ 1200  code test12_1.java test12_2.java test12_3.java
+ 1201  cd ..
+ 1202  java Exercise12_18 test12
+ 1203  javac Exercise12_18.java
+ 1204  java Exercise12_18 test12
+ 1205  javac Exercise12_18.java
+ 1206  java Exercise12_18 test12
+ 1207  javac Exercise12_18.java
+ 1208  java Exercise12_18 test12
+ 1209  javac Exercise12_18.java
+ 1210  java Exercise12_18 test12
+ 1211  javac Exercise12_18.java
+ 1212  java Exercise12_18 test12
+ 1213  javac Exercise12_18.java
+ 1214  java Exercise12_18 test12
+ 1215  git add --all
+ 1216  git commit -m"desktop"
+ 1217  git push origin master
+ 1218  000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+ 1219  git pull origin master
+ 1220  code Exercise12_18.java
+ 1221  cd test12
+ 1222  code test12_1.java test12_2.java test12_3.java
+ 1223  cd ..
+ 1224  cd test12
+ 1225  mkdir deeperTest
+ 1226  cd deeperTest
+ 1227  code deeperTest.java
+ 1228  cd ..
+ 1229  javac Exercise12_18.java
+ 1230  java Exercise12_18 test12
+ 1231  javac Exercise12_18.java
+ 1232  java Exercise12_18 test12
+ 1233  cd test12
+ 1234  ls
+ 1235  code test.txt
+ 1236  javac Exercise12_18.java
+ 1237  cd ..
+ 1238  javac Exercise12_18.java
+ 1239  java Exercise12_18 test12
+ 1240  cd test12
+ 1241  code test12_1.java test12_2.java test12_3.java
+ 1242  cd ..
+ 1243  javac Exercise12_18.java
+ 1244  java Exercise12_18 test12
+ 1245  javac Exercise12_18.java
+ 1246  cd..
+ 1247  cd ..
+ 1248  cd java/lang
+ 1249  cd lang\chp12
+ 1250  cd lang/chp12
+ 1251  cd test12
+ 1252  mkdir deeptest2
+ 1253  cd deeptest2
+ 1254  code deepertest.java
+ 1255  javac Exercise12_18.java
+ 1256  cd ..
+ 1257  javac Exercise12_18.java
+ 1258  java Exercise12_18 test12
+ 1259  javac Exercise12_18.java
+ 1260  cd test12
+ 1261  ls
+ 1262  cd deeperTest
+ 1263  ls
+ 1264  code deeperTest.java
+ 1265  ls
+ 1266  cd ..
+ 1267  ls
+ 1268  cd deeptest2
+ 1269  ls
+ 1270  code deepertest.java
+ 1271  javac Exercise12_18.java
+ 1272  cd ..
+ 1273  javac Exercise12_18.java
+ 1274  java Exercise12_18 test12
+ 1275  javac Exercise12_18.java
+ 1276  java Exercise12_18 test12
+ 1277  ls
+ 1278  cd test12
+ 1279  ls
+ 1280  cd deeperTest
+ 1281  ls
+ 1282  code deeperTest.java
+ 1283  cd ..
+ 1284  ls
+ 1285  cd deeptest2
+ 1286  ls
+ 1287  code deepertest.java
+ 1288  cd ..
+ 1289  javac Exercise12_18.java
+ 1290  git add --all
+ 1291  git status
+ 1292  git commit -m"desktop"
+ 1293  git push origin master
+ 1294  code Exercise12_19.java Books.txt Authors.txt
+ 1295  git add --all
+ 1296  git commit -m"desktop"
+ 1297  git push origin master
+ 1298  git pull origon master
+ 1299  git pull origin master
+ 1300  ls
+ 1301  code Exercise12_19.java Books.txt Authors.txt
+ 1302  javac Exercise12_19
+ 1303  javac Exercise12_19.java
+ 1304  java Exercise12_19
+ 1305  javac Exercise12_19.java
+ 1306  java Exercise12_19
+ 1307  javac Exercise12_19.java
+ 1308  java Exercise12_19
+ 1309  javac Exercise12_19.java
+ 1310  java Exercise12_19
+ 1311  javac Exercise12_19.java
+ 1312  java Exercise12_19
+ 1313  javac Exercise12_19.java
+ 1314  java Exercise12_19
+ 1315  javac Exercise12_19.java
+ 1316  java Exercise12_19
+ 1317  javac Exercise12_19.java
+ 1318  java Exercise12_19
+ 1319  javac Exercise12_19.java
+ 1320  java Exercise12_19
+ 1321  javac Exercise12_19.java
+ 1322  java Exercise12_19
+ 1323  javac Exercise12_19.java
+ 1324  java Exercise12_19
+ 1325  javac Exercise12_19.java
+ 1326  java Exercise12_19
+ 1327  javac Exercise12_19.java
+ 1328  java Exercise12_19
+ 1329  javac Exercise12_19.java
+ 1330  java Exercise12_19
+ 1331  javac Exercise12_19.java
+ 1332  java Exercise12_19
+ 1333  javac Exercise12_19.java
+ 1334  java Exercise12_19
+ 1335  javac Exercise12_19.java
+ 1336  java Exercise12_19
+ 1337  javac Exercise12_19.java
+ 1338  java Exercise12_19
+ 1339  javac Exercise12_19.java
+ 1340  java Exercise12_19
+ 1341  code Books.txt
+ 1342  java Exercise12_19
+ 1343  code Books.txt
+ 1344  java Exercise12_19
+ 1345  code Exercise12_20.java
+ 1346  git add --all
+ 1347  git commit -m"desktop"
+ 1348  git push origin master
+ 1349  git pull origin master
+ 1350  code Exercise12_20.java
+ 1351  javac Exercise12_20.java
+ 1352  ls
+ 1353  cd test12
+ 1354  ls
+ 1355  code test12_2.java
+ 1356  code test12_2.java test12_3.java 
+ 1357  code test12_2.java
+ 1358  cd deeperTest
+ 1359  ls
+ 1360  code deeperTest.java
+ 1361  cd ..
+ 1362  cd deepertest2
+ 1363  cd deeptest2
+ 1364  ls
+ 1365  code deepertes.java
+ 1366  code deepertest.java
+ 1367  cd ..
+ 1368  ls
+ 1369  java Exercise12_20 test12
+ 1370  javac Exercise12_20.java
+ 1371  java Exercise12_20 test12
+ 1372  cd test12
+ 1373  code test12_1.java
+ 1374  java Exercise12_20 test12
+ 1375  cd ..
+ 1376  java Exercise12_20 test12
+ 1377  ls
+ 1378  cd test12
+ 1379  ls
+ 1380  code test.txt
+ 1381  code test12_2.java
+ 1382  java Exercise12_20 test12
+ 1383  cd ..
+ 1384  java Exercise12_20 test12
+ 1385  cd chp12
+ 1386  cd test12
+ 1387  ls
+ 1388  rm test12_3.java test.txt
+ 1389  ls
+ 1390  cd ..
+ 1391  java Exercise12_20 test12
+ 1392  cd test12
+ 1393  code test12_1.java
+ 1394  cd ..
+ 1395  java Exercise12_20 test12
+ 1396  javac Exercise12_20.java
+ 1397  java Exercise12_20 test12
+ 1398  javac Exercise12_20.java
+ 1399  javac Exercise12_10.java
+ 1400  java Exercise test12
+ 1401  java Exercise12_10 test12
+ 1402  java Exercise12_20 test12
+ 1403  javac Exercise12_10.java
+ 1404  java Exercise12_20 test12
+ 1405  javac Exercise12_20.java
+ 1406  java Exercise12_20 test12
+ 1407  javac Exercise12_20.java
+ 1408  java Exercise12_20 test12
+ 1409  javac Exercise12_20.java
+ 1410  java Exercise12_20 test12
+ 1411  javac Exercise12_20.java
+ 1412  java Exercise12_20 test12
+ 1413  javac Exercise12_20.java
+ 1414  java Exercise12_20 test12
+ 1415  javac Exercise12_20.java
+ 1416  cd test12
+ 1417  code test12_1.java
+ 1418  cd ..
+ 1419  java Exercise12_20 test12
+ 1420  java Exercise12_18 test12
+ 1421  code exercise12_18.java
+ 1422  code Exercise12_18.java
+ 1423  cd test12
+ 1424  ls
+ 1425  cd deeperTest
+ 1426  ls
+ 1427  code deeperTest2.java
+ 1428  cd ..
+ 1429  java Exerciase12_20 test12
+ 1430  java Exercise12_20 test12
+ 1431  cd ..
+ 1432  cd chp12
+ 1433  cd test12
+ 1434  code test12_1.java
+ 1435  code test12_2.java
+ 1436  cd ..
+ 1437  javac Exercise12_18.java
+ 1438  cd ..
+ 1439  cd chp12
+ 1440  javac Exercise12_18.java
+ 1441  java Exercise12_18 test12
+ 1442  javac Exercise12_18.java
+ 1443  java Exercise12_18 test12
+ 1444  javac Exercise12_18.java
+ 1445  java Exercise12_18 test12
+ 1446  javac Exercise12_20.java
+ 1447  javac Exercise12_18.java
+ 1448  java Exercise12_18
+ 1449  javac Exercise12_18.java
+ 1450  java Exercise12_18
+ 1451  java Exercise12_18 test12
+ 1452  cd test12
+ 1453  ls
+ 1454  cd deep test2
+ 1455  cd deeptest2
+ 1456  ls
+ 1457  code deepertest.java
+ 1458  cd ..
+ 1459  ls
+ 1460  cd deeperTest
+ 1461  ls
+ 1462  code deeperTest2.java
+ 1463  cd ..
+ 1464  java Exercise 12_18 test12
+ 1465  java Exercise12_18 test12
+ 1466  java Exercise12_20 test12
+ 1467  javac Exercise12_20.java
+ 1468  java Exercise12_18 test12
+ 1469  java Exercise12_20 test12
+ 1470  java Exercise12_18 test12
+ 1471  java Exercise12_20 test12
+ 1472  java Exercise12_18 test12
+ 1473  java Exercise12_20 test12
+ 1474  code Exercise12_18.java
+ 1475  javac Exercise12_18.java
+ 1476  java Exercise12_18 test12
+ 1477  java Exercise12_20 test12
+ 1478  java Exercise12_18 test12
+ 1479  java Exercise12_20 test12
+ 1480  java Exercise12_18 test12
+ 1481  java Exercise12_20 test12
+ 1482  code Exercise12_21.java
+ 1483  code Exercise12_14.java
+ 1484  code Exercise12_19.java
+ 1485  javacExercise12_21.java
+ 1486  javac Exercise12_21.java
+ 1487  code Books.txt Authors.txt
+ 1488  java Exercise12_21
+ 1489  code Books.txt Authors.txt
+ 1490  javac Exercise12_21.java
+ 1491  java Exercise12_21
+ 1492  javac Exercise12_21.java
+ 1493  java Exercise12_21
+ 1494  javac Exercise12_21.java
+ 1495  java Exercise12_21
+ 1496  javac Exercise12_21.java
+ 1497  java Exercise12_21
+ 1498  javac Exercise12_21.java
+ 1499  java Exercise12_21
+ 1500  code Exercise12_22.java
+ 1501  javac Exercise12_22.java
+ 1502  ls
+ 1503  code test.txt
+ 1504  java Exercise12_22 test.txt test3.txt steve paul
+ 1505  code test3.txt
+ 1506  javac Exercise12_22.java
+ 1507  ls
+ 1508  cd test12
+ 1509  ls
+ 1510  code test12_1.java
+ 1511  cd deeperTest
+ 1512  ls
+ 1513  code deeperTest2.java
+ 1514  cd ..
+ 1515  java Exercise12_18 test12
+ 1516  java Exercise12_22 test12 package Snackage
+ 1517  javac Exercise12_22.java
+ 1518  java Exercise12_22 test12 package Snackage
+ 1519  java Exercise12_20 test12
+ 1520  java Exercise12_18
+ 1521  java Exercise12_18 ch12
+ 1522  java Exercise12_18 test12
+ 1523  java Exercise12_20 test12
+ 1524  java Exercise12_18 ch12
+ 1525  java Exercise12_18 test12
+ 1526  java Exercise12_22 test12
+ 1527  java Exercise12_22 test12 package Snackage
+ 1528  cd test12
+ 1529  cd ..
+ 1530  java Exercise12_22 test12/deepertest2 package Snackage
+ 1531  java Exercise12_22 test12/deepertest package Snackage
+ 1532  java Exercise12_22 test12/deeperTest package Snackage
+ 1533  code Exercise12_18.java
+ 1534  code Exercise12_20.java
+ 1535  code Exercise12_23.java
+ 1536  javac Exercise12_23.java
+ 1537  java Exercise12_23
+ 1538  code Exercise12_24.java
+ 1539  code nameList.txt
+ 1540  mv nameList.txt firstNameList.txt
+ 1541  code lastNameList.txt
+ 1542  code firstNameList.txt
+ 1543  javac Exercise12_24.java
+ 1544  java Exercise12_24.java
+ 1545  java Exercise12_24
+ 1546  javac Exercise12_24.java
+ 1547  java Exercise12_24
+ 1548  ls
+ 1549  code Salary.txt
+ 1550  rm Salary.txt
+ 1551  ls
+ 1552  git add --all
+ 1553  git commit -m"desktop"
+ 1554  git push origin master
+ 1555  git config --global core.autocrlf input
+ 1556  git pull origin master
+ 1557  tree
+ 1558  sudo snap install tree
+ 1559  tree
+ 1560  cd ..
+ 1561  cd 
+ 1562  ls
+ 1563  cd Documents/
+ 1564  ls
+ 1565  cd java
+ 1566  ls
+ 1567  tree
+ 1568  ls
+ 1569  cd coursera
+ 1570  ls
+ 1571  cd unix_workbench/
+ 1572  ls
+ 1573  cat list.txt
+ 1574  cat readme.txt
+ 1575  cd bookRepo
+ 1576  ls
+ 1577  cd uni
+ 1578  cd the-unix-workbench/
+ 1579  ls
+ 1580  ls -a
+ 1581  cd ..
+ 1582  ls
+ 1583  cd doc
+ 1584  cd Documents/
+ 1585  ls
+ 1586  ls -l
+ 1587  man ls
+ 1588  ls -o
+ 1589  ls -h
+ 1590  ls
+ 1591  ls -H
+ 1592  ls -R
+ 1593  cd
+ 1594  ls -R
+ 1595  cd Documents/java
+ 1596  ls
+ 1597  git submodule init
+ 1598  git submodule update
+ 1599  ls
+ 1600  cd coursera
+ 1601  ls
+ 1602  cd unix_workbench/
+ 1603  ls
+ 1604  history
+ 1605  uniq history
+ 1606  uniq 
+ 1607  uniq | history
+ 1608  history > history.txt | wc
+ 1609  ls
+ 1610  less history.txt
+ 1611  rm history.txt
+ 1612  wc -l | history > history.txt

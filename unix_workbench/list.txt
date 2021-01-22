@@ -1,0 +1,12 @@
+total 11
+drwxr-xr-x 1 Johnny Number 5 197121    0 Jan  9 02:12 code
+-rw-r--r-- 1 Johnny Number 5 197121   23 Jan  9 02:41 echo-out.txt
+-rw-r--r-- 1 Johnny Number 5 197121 3247 Jan  9 02:32 javaFileExample.java
+-rw-r--r-- 1 Johnny Number 5 197121    0 Jan  9 02:13 journal-2021-01-09.txt
+-rw-r--r-- 1 Johnny Number 5 197121    0 Jan  9 02:49 list.txt
+-rw-r--r-- 1 Johnny Number 5 197121    6 Jan  9 02:48 readme.txt
+-rw-r--r-- 1 Johnny Number 5 197121 2223 Jan  9 02:27 stocism.txt
+-rw-r--r-- 1 Johnny Number 5 197121   70 Jan  9 02:46 todo.txt
+
+
+just mucking about

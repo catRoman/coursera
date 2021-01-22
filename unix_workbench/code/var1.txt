@@ -1,0 +1,6 @@
+bigmath.sh
+log.txt
+math.sh
+RemovePackage.java
+var1.txt
+vars.sh
