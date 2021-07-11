@@ -1,0 +1,36 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/01/Mux4Way16.hdl
+
+/**
+ * 4-way 16-bit multiplexor:
+ * out = a if sel == 00
+ *       b if sel == 01
+ *       c if sel == 10
+ *       d if sel == 11
+ */
+
+CHIP Mux4Way16 {
+    IN a[16], b[16], c[16], d[16], sel[2];
+    OUT out[16];
+
+    PARTS:
+    // Put your code here:
+    Not (in=sel[0], out=notSel0temp);
+    Not (in=sel[1], out=notSel1temp);
+    Fork16Way (in=notSel0temp, out[0..15]=notSel0Fork);
+    Fork16Way (in=notSel1temp, out[0..15]=notSel1Fork);
+    Fork16Way (in=sel[0], out[0..15]=sel0Fork);
+    Fork16Way (in=sel[1], out[0..15]=sel1Fork);
+    And16 (a[0..15]=a[0..15], b[0..15]=notSel0Fork, out[0..15]=andTemp1);
+    And16 (a[0..15]=b[0..15], b[0..15]=sel0Fork, out[0..15]=andTemp2);
+    And16 (a[0..15]=c[0..15], b[0..15]=notSel0Fork, out[0..15]=andTemp3);
+    And16 (a[0..15]=d[0..15], b[0..15]=sel0Fork, out[0..15]=andTemp4);
+    Or16 (a[0..15]=andTemp1, b[0..15]=andTemp2, out[0..15]=orTemp1);
+    Or16 (a[0..15]=andTemp3, b[0..15]=andTemp4, out[0..15]=orTemp2);
+    And16 (a[0..15]=orTemp1, b[0..15]=notSel1Fork, out[0..15]=andTemp5);
+    And16 (a[0..15]=orTemp2, b[0..15]=sel1Fork, out[0..15]=andTemp6);
+    Or16 (a[0..15]=andTemp5, b[0..15]=andTemp6, out[0..15]=out[0..15]);
+
+}
